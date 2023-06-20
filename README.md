@@ -1,5 +1,5 @@
 - Hi, I’m @loudlybear or Júlia 
-- I'm interested in data science and data analytics
+- I'm interested in data science, data analytics and ontology
 - I'm currently learning SQL and trying phyton^^
 - How to reach me @loudlybear (on twitter)
 <!---
